@@ -2,7 +2,7 @@
 
 A simple plagiarism detection API that analyzes text for similarities and provides detailed reports. This API can be used to check documents, articles, or any text content for potential plagiarism.
 
-[DOCUMENTATION](documentation/README.md)
+[DOCUMENTATION](DOCUMENTATION/README.md)
 
 ## Disclaimer
 
