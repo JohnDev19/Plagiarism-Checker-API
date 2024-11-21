@@ -2,6 +2,8 @@
 
 A simple plagiarism detection API that analyzes text for similarities and provides detailed reports. This API can be used to check documents, articles, or any text content for potential plagiarism.
 
+[DOCUMENTATION](documentation/README.md)
+
 ## Disclaimer
 
 This tool provides a basic level of plagiarism detection. This API doesn't use advanced machine learning models. Instead, it relies only on techniques such as term frequency-inverse document frequency (TF-IDF) and cosine similarity to compare text. As a result, the accuracy of the plagiarism detection may be limited. For critical applications, consider using more advanced plagiarism detection solutions.
