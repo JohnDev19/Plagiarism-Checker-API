@@ -26,7 +26,7 @@ You can use tools like Postman or cURL to make requests to the API. Here’s a s
 
 Example Request for Plagiarism Check
 ```bash
-curl -X POST http://localhost:3000/plagiarism? content=${yourContentHere}\
+curl -X POST http://localhost:3000/plagiarism?content=${yourContentHere}\
 -H "Content-Type: application/json"
 ```
 
